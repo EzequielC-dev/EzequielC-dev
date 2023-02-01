@@ -1,8 +1,7 @@
-### Olá! Eu sou o Ezequiel 👋
+### Hello!! I'm Ezequiel 👋
 
-- 🌱 Estudando html e CSS 
-- 📫 Contate-me no email: ezequiel34324@gmail.com 
-- ⚡ Fun fact: Amo gatos 
+- 🌱 Studying html and CSS 
+- 📫 Contact me: ezequiel34324@gmail.com 
 
  <div>
   <a href="https://github.com/EzequielC-dev">
