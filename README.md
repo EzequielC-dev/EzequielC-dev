@@ -13,9 +13,11 @@
    
 ***  
   
+ <div>
+     
 ### *Front-End*
  
- <div display="flex">
+  align="center" display="flex">
  
   <img align="center" alt="math-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="math-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
