@@ -3,7 +3,7 @@
 
  <div align="center">  
 
-   ### *Hello!! I'm Ezequiel *
+   ### *Hello!! I'm Ezequiel*
 
      Studying HTML, CSS and JavaScript.
      Contact me: ezequiel34324@gmail.com 
