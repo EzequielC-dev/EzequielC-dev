@@ -1,12 +1,7 @@
 ### *Hello!! I'm Ezequiel 👋*
 
 - 🌱 Studying HTML, CSS and JavaScript.
-- 📫 Contact me: ezequiel34324@gmail.com 
-<div align="left">
-  <a href="https://github.com/EzequielC-Dev">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EzequielC-Dev&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EzequielC-Dev&layout=compact&langs_count=7&theme=chartreuse-dark"/>
-</div>
+- 📫 Contact me: ezequiel34324@gmail.com
   
   <!-- Show top image -->
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
