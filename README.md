@@ -1,10 +1,10 @@
  <!-- Show top image -->
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 
-### *Hello!! I'm Ezequiel 👋*
+<div align="center">  ### *Hello!! I'm Ezequiel 👋*
 
 - 🌱 Studying HTML, CSS and JavaScript.
-- 📫 Contact me: ezequiel34324@gmail.com
+- 📫 Contact me: ezequiel34324@gmail.com </div>
  
    
 ***  
