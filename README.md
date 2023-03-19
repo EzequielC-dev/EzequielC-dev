@@ -1,6 +1,6 @@
 ### *Hello!! I'm Ezequiel 👋*
 
-- 🌱 Studying html, CSS and JavaScript.
+- 🌱 Studying HTML, CSS and JavaScript.
 - 📫 Contact me: ezequiel34324@gmail.com 
 <div align="left">
   <a href="https://github.com/EzequielC-Dev">
