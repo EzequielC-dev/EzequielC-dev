@@ -1,6 +1,6 @@
 ### *Hello!! I'm Ezequiel 👋*
 
-- 🌱 Studying html and CSS 
+- 🌱 Studying html, CSS and JavaScript.
 - 📫 Contact me: ezequiel34324@gmail.com 
 <div align="left">
   <a href="https://github.com/EzequielC-Dev">
@@ -10,6 +10,8 @@
  
    
 ***  
+  
+  <h1>Front-End</h1>
 ![](https://img.shields.io/badge/-HTML-informational/?style=for-the-badge&logo=HTML5&color=darkorange&labelColor=black)
 ![](https://img.shields.io/badge/-CSS-informational/?style=for-the-badge&logo=CSS3&color=darkblue&labelColor=black)
 ---
@@ -20,7 +22,7 @@
   <a href="https://www.instagram.com/ezequielw_314/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
   <a href = "mailto:contato@rafaballerini.tech"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
    
-   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+   ![Snake animation](https://github.com/ezequielC-Dev/EzequielC-Dev/blob/output/github-contribution-grid-snake.svg)
    
   </div>
   
