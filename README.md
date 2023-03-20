@@ -44,6 +44,6 @@
  <div align="center" display="flex"> 
  
   ### *My Stats* 
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EzequielC-Dev&layout=compact&langs_count=7&theme=chartreuse-blue"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EzequielC-Dev&layout=compact&langs_count=7&theme=tokyonight"/>
  
  </div>
