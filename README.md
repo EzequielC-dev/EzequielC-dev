@@ -30,7 +30,7 @@
 
  </div>
  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EzequielC-Dev&layout=compact&langs_count=7&theme=chartreuse-dark"/>
+  <img align="center" height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EzequielC-Dev&layout=compact&langs_count=7&theme=chartreuse-dark"/>
  
 ---
 
