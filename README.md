@@ -5,7 +5,7 @@
 
    ### *Hello!! I'm Ezequiel*
 
-     Studying HTML, CSS and JavaScript.
+     Studying HTML, CSS, JavaScript and C#.
      Contact me: ezequiel34324@gmail.com 
 
  </div>
