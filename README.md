@@ -5,7 +5,7 @@
 
    ### *Hello!! I'm Ezequiel*
 
-     Studying HTML, CSS, JavaScript and C#.
+     Studying HTML, CSS, JavaScript.
      Contact me: ezequiel34324@gmail.com 
 
  </div>
@@ -20,7 +20,6 @@
   <img align="center" alt="math-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="math-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="math'Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="math'C#" height="35" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
 
  
 ### *Tools*:
