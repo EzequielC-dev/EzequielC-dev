@@ -5,9 +5,9 @@
 
    ### *Hello!! I'm Ezequiel*
 
-   Studying HTML, CSS, JavaScript.
-   Contact me: ezequiel.cardoso1605@gmail.com 
-g
+   Studying HTML, CSS, JavaScript and React.
+   Contact me: ezequiel.cardoso1605@gmail.com
+
  </div>
  
    
@@ -20,7 +20,7 @@ g
   <img align="center" alt="math-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="math-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="math'Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align=center" alt="math-React" height="30" width"40" src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png">
+  <img alt="math-React" height="30" width"40" src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png">
   
 
  
