@@ -6,7 +6,7 @@
    ### *Hello!! I'm Ezequiel*
 
      Studying HTML, CSS, JavaScript and React.
-     Contact me: ezequiel34324@gmail.com 
+     Contact me: ezequiel.cardoso1605@gmail.com 
 
  </div>
  
