@@ -33,6 +33,8 @@
 <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
 <img src="https://img.shields.io/badge/Figma-696969?style=for-the-badge&logo=figma&logoColor=figma">
 
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
  </div>
   
 ---
