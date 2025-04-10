@@ -44,5 +44,5 @@
 
 ##
    <div align="center">
-     <img height="75%" width="75%" style="object-fit: cover;" src="https://jonahwrites.blog/wp-content/uploads/2024/07/screenshot-615.png?w=1024"/>
+     <img height="75%" width="75%" style="object-fit: cover;" src="https://pbs.twimg.com/media/E1Rm9qiWYAE3Zt3?format=jpg&name=large"/>
    </div>
